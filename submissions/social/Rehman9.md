@@ -6,7 +6,7 @@ discord_id: "924341064943431712"
 timestamp: "2025-08-28"
 
 ## Developer
-Name: To Be Filled
+Name: Trinh Pham
 GitHub: @Rehman9
 Discord: thanhttadp
 Experience: Web3 developer with interest in social applications and zk integration.
